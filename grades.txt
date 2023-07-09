@@ -1,0 +1,43 @@
+Course Code Number  Course Title    Course Instructor   Course Grade
+MATH 1300   Differential Calculus and Applications  Shu Xiao Li A
+MATH 1131   Introduction to Statistics I    Xin Gao A
+PHYS 1560   Introduction to Physics Ozzy Mermut A
+MATH 1210   Linear Algebra I    Robin Sulzgruber    C
+MATH 1310   Integral Calculus and Applications  Man Wah Wong    A
+EECS 1560   Introduction to Computing for Mathematics and Statistics    Ali Mahmoodi    DROPPED
+MATH 1200   Problems,Proofs and Conjectures Natasha May D+
+MATH 2030   Elementary Probability  Valeri Muckine  DROPPED
+MATH 2021   Linear Algebra II   Valeri Muckine  DROPPED
+MATH 2310   Calculus of Several Variables with Applications Catherine Emily Redelmeier  C+
+MATH 2030   Elementary Probability  Emanoil Theodoresu  C
+MATH 2001   Real Analysis I Paul Szeptycki  DROPPED
+PHYS 1410   Physical Science    Paul A Delaney  A
+ECON 1010   Introducation to Macroeconomics Avi J Cohen DROPPED
+MATH 3410   Complex Analysis    Mah-Wah-Wong    A
+MATH 2270   Differental Equations   Iain Moyles A+
+PHY 1410    Physical Science    Elaina Hyde A
+MATH 3241   Numerical Methods I Dong Liang  B+
+MATH 3271   Partial Differential Equations  Mah Wah Wong    B+
+MATH 2001   Real Analysis I Ivan Ongay Valverde    DROPPED
+MATH 4171   Nonlinear Optimization  Michael Chen    DROPPED
+MATH 3171   Linear Optimization PEYGHAMI, M. Reza   C
+PHYS 2020   Electricity and Magnetism   Stan Jerzak B+
+MATH 2280   Mathematical Theory of Interest Phillip Morenz  D
+MATH 4090   Mathematical Modelling  Jorg Grigull    A
+PHYS 1470   Highlights of Astronomy Nobert Bartel   A
+MATH 2131   Introduction to Statistics II   Augustine C.M. Wong A
+MATH 4271   Dynamical Systems   Huaiping Zhu    B+
+MATH 3242   Numerical Methods II    Snezhana Kirusheva  A
+MATH 3330   Regression Analysis Amanda Tian C+
+MATH 3131   Mathematical Statistics I   Steven Wang DROPPED
+MATH 4300   Directed Readings   Man Wah Wong    A
+MATH 2021   Linear Algebra II   Valeri Muckine  B+
+MATH 4141   Advanced Numerical Methods  Dong Liang  DROPPED
+MATH 3021   Algebra I   Man Wah Wong    DROPPED
+MATH 2041   Symbolic-Computation-Laboratory-I   Iain Moyles DROPPED
+MATH 3052   Exploring Geometries    Varvara Nika    DROPPED
+MORD 1770   Techniques of Persuasion    Francisco Gomez-Holtved DROPPED
+PHYS 2040   Relativity and Modern Physics   Claire Davide   DROPPED
+MATH 3131   Mathematical Statistics I   Andrew McEachern    DROPPED
+ECON 1000   Introduction to Microeconomics  See Participant List    A
+MODR 1770   Techniques of Persuasion    Francisco Gomez-Holtved D
